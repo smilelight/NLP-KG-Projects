@@ -90,7 +90,7 @@
 - [ ] [Nrgeup/chinese_semantic_role_labeling: 基于 Bi-LSTM 和 CRF 的中文语义角色标注](https://github.com/Nrgeup/chinese_semantic_role_labeling)
 - [ ] [luheng/deep_srl: Code and pre-trained model for: Deep Semantic Role Labeling: What Works and What's Next](https://github.com/luheng/deep_srl)
 - [ ] [phueb/DLSRL: Deep Bidirection LSTM for Semantic Role Labeling](https://github.com/phueb/DLSRL)
-- [ ] [sanjaymeena/semantic_role_labeling_deep_learning: SRL deep learning model is based on DB-LSTM which is described in this paper : [End-to-end learning of semantic role labeling using recurrent neural networks](http://www.aclweb.org/anthology/P15-1109)](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning)
+- [ ] [sanjaymeena/semantic_role_labeling_deep_learning: SRL deep learning model is based on DB-LSTM which is described in this paper : 《End-to-end learning of semantic role labeling using recurrent neural networks》](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning)
 - [ ] [XMUNLP/Tagger: Deep Semantic Role Labeling with Self-Attention](https://github.com/XMUNLP/Tagger)
 
 ### 词性标注
@@ -125,7 +125,7 @@
 
 - [ ] [ZephyrChenzf/Batch_attention_seq2seq_translation-pytorch: Batch_attention_seq2seq_translation by pytorch](https://github.com/ZephyrChenzf/Batch_attention_seq2seq_translation-pytorch)
 
-## [知识图谱任务实现](./知识图谱任务实现.md)：
+## [知识图谱任务实现](./知识图谱任务实现.md)
 
 ### 表示学习
 
@@ -179,8 +179,6 @@
 - [ ] [UKPLab/starsem2018-entity-linking: Accompanying code for our *SEM 2018 @ NAACL 2018 paper "Mixing Context Granularities for Improved Entity Linking on Question Answering Data across Entity Categories"](https://github.com/UKPLab/starsem2018-entity-linking)
 
 ### 实体消岐
-
-- [ ] [google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
 
 ### 共指消解
 
